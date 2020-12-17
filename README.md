@@ -1,0 +1,2 @@
+# Airline-Reservation-System
+A JAVA Application incorporate airline schedules, tariffs, passenger reservations, ticket records and admin management.
